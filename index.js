@@ -7,5 +7,5 @@ module.exports = { name, height
 }
 
 if(name === "Susan") {
-  consule.log("The name is correct")
+  console.log("The name is correct")
 }
